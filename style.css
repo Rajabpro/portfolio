@@ -53,14 +53,14 @@
 }
 
 
-html {
+.html {
 
     scroll-behavior: smooth;
 
 }
 
 
-body {
+.body {
 
     font-family: "Inter", sans-serif;
 
@@ -80,7 +80,7 @@ body.menu-open {
 }
 
 
-a {
+.a {
 
     color: inherit;
 
@@ -89,7 +89,7 @@ a {
 }
 
 
-img {
+.img {
 
     display: block;
 
@@ -98,7 +98,7 @@ img {
 }
 
 
-button {
+.button {
 
     font-family: inherit;
 
